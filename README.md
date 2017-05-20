@@ -1,0 +1,2 @@
+# duck
+Design Pattern
